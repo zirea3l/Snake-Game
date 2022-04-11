@@ -5,7 +5,7 @@ Using Threads and Java Swing to display the game.
 The code is well commented, if you have any questions or want to continue this project feel free to do so 👌
 
 ### How it looks:
-file:///C:/Users/piyus/Pictures/Screenshots/Screenshot%20(158).png
+![Screenshot (158)](https://user-images.githubusercontent.com/83646370/162735418-41b93dea-a2e9-4a75-af6a-a66373142800.png)
 
 ### How to run the project:
 
